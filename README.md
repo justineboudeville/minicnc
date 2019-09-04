@@ -6,7 +6,7 @@ Date : 04/09/2019
 Licence : Libre
 
 
-Introduction : 
+**Introduction** : 
 « La machine outil à commande numérique » CNC ou « computer numerical control » en anglais est une machine-outil dotée d'une commande numérique assurée par un ordinateur. La fonction d’usinage est déterminée par un programme, qui commande les déplacements des outils sur la masse à usiner. Il définit l’axe de rotation de la fraise en fraisage, et l’axe de rotation de la pièce en tournage. La machine, une fraiseuse à trois ou cinq axes, est entièrement automatisée et contrôlée par ordinateur
 
 Contexte : 
