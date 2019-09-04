@@ -35,10 +35,7 @@ Commençons! ☺
 Ici la surface du carré de lino est de 7,5 x 7,5 cm
 + Vérifier l’échelle (notamment quand on importe un fichier SVG dans Inkscape)
 
-
-
-gs://tuto_minicnc/IMG_20190904_141643.jpg
-
+https://storage.cloud.google.com/tuto_minicnc/IMG_20190904_141643.jpg
 
 
 TUTORIEL : 
