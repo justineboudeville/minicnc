@@ -13,7 +13,7 @@
 ### CONTEXTE :
 Création de tampons dans le cadre du workshop BOOM Festival par le collectif fais le toi-même.
 Création personnalisée de drapeaux à envoyer dans le monde. 
-### OBJECTIFS : 
+*   ### OBJECTIFS : 
 Apprendre le processus d’impression sur tampon.
 Manipuler le tampon, l’encre, et avoir un rendu net.
 Communiquer par le biais d’un langage graphique à travers le monde. 
