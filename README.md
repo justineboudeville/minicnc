@@ -36,7 +36,7 @@ Ici la surface du carré de lino est de 7,5 x 7,5 cm
 + Vérifier l’échelle (notamment quand on importe un fichier SVG dans Inkscape)
 
 
-![final](https://photos.google.com/photo/AF1QipNlvnP0m4rZm28eFYX4FBxrneUD9UE8_R48O07e)
+![final](https://photos.app.goo.gl/y6ZpRSfaXxFYW6XM8)
 
 TUTORIEL : 
 http://wiki.funlab.fr/index.php/Gcode_avec_Inkscape
