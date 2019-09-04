@@ -41,8 +41,5 @@ http://wiki.funlab.fr/index.php/Gcode_avec_Inkscape
 
 
 
-
-[Daisy] Running workflow "import-image"
-[import-image]: 2017/06/29 21:51:12 Logs will be streamed to https://storage.cloud.google.com/tuto_minicnc/IMG_20190904_141643.jpg
-[import-image]: 2017/06/29 21:51:12 Validating workflow
+https://storage.cloud.google.com/tuto_minicnc/IMG_20190904_141643.jpg
 
