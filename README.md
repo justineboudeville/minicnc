@@ -37,7 +37,7 @@ Ici la surface du carré de lino est de 7,5 x 7,5 cm
 
 
 
-
+gs://tuto_minicnc/IMG_20190904_141643.jpg
 
 
 
