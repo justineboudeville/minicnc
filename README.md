@@ -37,6 +37,7 @@ Ici la surface du carré de lino est de 7,5 x 7,5 cm
 
 
 ![final](file:///Users/justine/Desktop/IMG_20190904_141643.jpg)
+[final]: file:///Users/justine/Desktop/IMG_20190904_141643.jpg
 
 TUTORIEL : 
 http://wiki.funlab.fr/index.php/Gcode_avec_Inkscape
