@@ -63,4 +63,4 @@ _Pour une mèche en V, c'est un peu plus casse-tête! Cette dernière me sert ic
 
 #### 8. Extension EggBot
 
-[extension eggbot](https://console.cloud.google.com/storage/browser/tuto_minicnc)
+[extension eggbot](https://console.cloud.google.com/storage/browser/tuto_minicnc/EggBot_extensions_v281/)
