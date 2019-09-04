@@ -19,6 +19,7 @@ Manipuler le tampon, l’encre, et avoir un rendu net.
 Communiquer par le biais d’un langage graphique à travers le monde. 
 
 
+
 ### MATERIEL :
 - Carré de linogravure
 - Encrier
