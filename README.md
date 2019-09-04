@@ -48,7 +48,8 @@ _Un autre tutoriel qui m'a bien aidé!_
 
 Ici la surface du carré de lino est de 75 x 75 mm + Vérifier l’échelle (notamment quand on importe un fichier SVG dans Inkscape)
 
-**3. Mettre un contour de différentes couleurs pour chaque objet.
+**3. Mettre un contour de différentes couleurs pour chaque objet.**
+
 
 **4. Vérifier que les  objets soient en chemin, objet vectoriel. « Chemin → Objet en chemin ».**
 ![2](https://00e9e64bacb88532ad392442f8b8b692b501d7001aa4085f05-apidata.googleusercontent.com/download/storage/v1/b/tuto_minicnc/o/Capture%20d%E2%80%99e%CC%81cran%202019-09-04%20a%CC%80%2016.26.14.png?qk=AD5uMEsFZoTqHkUcbwwlLFfEOiTjiFtzg7o1hGMMFni3MNil69VWqBDBr2JsXmK4cJheqgHzyBfKyBew5zXuG6K4eQnLWLM2SKgMArZ2kXwUyIgzXlRLJIIebmmVWEMEbKOHlQSJ6w0qfwpGBnYXx0lo8c-OmfQI_mHsSyHcjyAxkSy4C7ZwchHZ6tfva-_2Hjr6WS12RHd98-x3rTXSgE8OyiVCjbqePBE7iDuf0IPWqhNNNsRGa9xd9Z1qFj2GgyA4_OKzKsSfyhWoedYIQLZ4HeyI70olKfYscSFd_O93W8ONJHDaAR9Rp4vEtX5PORk7zX_MCsJIuWKFGwWsBmBEVkdpG9_MsTE52yVn5gT9eAQ5gKRe4qCLMk7ne0MXh9I8YmFQrMPWCqxciNgCiWqBSMm5CGuDaIvgFAEzQMhv0OGu0AvyxSSEux-BYtugdP2Mk-tlQleb5iOF2fyex7-_rdrqrzbPlN-fvzr6Jlxkz--ncMgiNJh-0tKt0327aPZA_3vvmIaHCSP5QJVWBuDRTQfsZteH_rGuiJqO6NzEjqXIIRSYO_PNU0GkIur60cvdtaWpBU4DKCMSE4AKXXQ6jgK8GWrkuqmOLKA7N46Hu-SXf7g8YvinSrV7h160iIyL67suMkrVSMAshMY-EHwE-VpGJKQKhVCXF-qGwixJQpXn_xCYv2NY_xvQ5GJFMUYZI1Fc7eqEIthO3tLKaeimWWdpBxG9qZIYN5n7tTCW_6FcbADUUqRCFcB2r0Mqg9kFrCuHfmmSYi257fTWjNlvfYTdxucNrDBbudkjkiMvKcboF3lQCQSOk-WYvPhGJm4zejoqJKok3gEj2E_DGy4goS15nVVfY5EnMSDSLgu5wcR4ATbg8u0)
