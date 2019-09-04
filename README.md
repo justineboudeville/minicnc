@@ -1,7 +1,7 @@
 # MINICNC, tutoriel
 ---
 
-# HELLO WORLD! ㋡
+# Hello world! ㋡
 
     name: Justine Boudeville
     job: Graphic Designer
@@ -31,3 +31,13 @@ Commençons :-)
 2. S’assurer que la dimension du fichier est  ≤ sur la masse à usiner
 Ici la surface du carré de lino est de 7,5 x 7,5 cm
 + Vérifier l’échelle (notamment quand on importe un fichier SVG dans Inkscape)
+
+
+
+
+
+
+
+TUTORIEL : 
+http://wiki.funlab.fr/index.php/Gcode_avec_Inkscape
+
