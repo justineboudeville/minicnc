@@ -1,4 +1,6 @@
 # minicnc
+Tutoriel
+
 
 Justine Boudeville
 Date : 04/09/2019
@@ -19,12 +21,12 @@ Communiquer par le biais d’un langage graphique à travers le monde.
 
 
 **Matériel** : 
-1. Carré de linogravure
-2. Encrier
-3. Inkscape
-4. Extension g-code
-5. Extension EggBot
-6. CNC
+- Carré de linogravure
+- Encrier
+- Inkscape
+- Extension g-code
+- Extension EggBot
+- CNC
 
 Commençons :-) 
 
