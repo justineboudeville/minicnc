@@ -2,10 +2,9 @@
 ---
 Tutoriel
 
-
-Justine Boudeville
-Date : 04/09/2019
-Licence : Libre
+    name: Justine Boudeville
+    job: Graphic Designer
+    date: 04/09/2009 
 
 
 **Introduction** : 
@@ -36,5 +35,3 @@ Commençons :-)
 2. S’assurer que la dimension du fichier est  ≤ sur la masse à usiner
 Ici la surface du carré de lino est de 7,5 x 7,5 cm
 + Vérifier l’échelle (notamment quand on importe un fichier SVG dans Inkscape)
-
-...
