@@ -93,15 +93,33 @@ Dans le cas contraire, voici le fichier ⬇️
 [gcodetools.tar.gz](https://github.com/justineboudeville/minicnc/files/3578703/gcodetools.tar.gz)
 
 #### 10. Les points d’orientations
-Sous Inkscape, sans sélectionner votre dessin, lancer « Extensions → Programmation de commande numérique → Points d’orientation... ». Il s’agit de choisir les origines pour gérer les déplacements de l’outil selon le tracé de votre dessin.
+Sous Inkscape, sans sélectionner votre dessin, lancer « Extensions → Programmation de commande numérique → Points d’orientation... ». Il s’agit de choisir les origines pour gérer les déplacements de l’outil selon le tracé de votre dessin.  
+
+
+![Capture d’écran 2019-09-05 à 12 14 08](https://user-images.githubusercontent.com/54895357/64333449-d3826580-cfd6-11e9-84ff-4dda70decf11.png)  
+
 Laissez tous les réglages par défaut et indiquez une valeur pour « Profondeur sur l’axe Z ».
 Ici, il consiste à graver d’une profondeur de 1 mm un parapluie dans du lino d’épaisseur 3 mm, (et de surface 750 x 750 mm).
 Choisir donc « Profondeur sur l’axe Z : 1 »
 Appliquer
 Les points de coordonnées apparaissent. 
-Ne touchez pas celui du (0.0 ; 0.0 ; 0.0), et positionnez l’autre coordonnée de fait qu’il soit sur la partie droite
+Ne touchez pas celui du (0.0 ; 0.0 ; 0.0), et positionnez l’autre coordonnée de fait qu’il soit sur la partie droite.  
 
-#### 11. La blibliothèque d'outils
+
+![Capture d’écran 2019-09-05 à 12 14 15](https://user-images.githubusercontent.com/54895357/64333461-d8dfb000-cfd6-11e9-9e36-f5cdd6047ddd.png)
+
+![Capture d’écran 2019-09-05 à 12 14 22](https://user-images.githubusercontent.com/54895357/64333464-dbdaa080-cfd6-11e9-8528-56f88d46678a.png)
+
+
+#### 11. La blibliothèque d'outils  
+
+
+
+![Capture d’écran 2019-09-05 à 12 14 26](https://user-images.githubusercontent.com/54895357/64333474-ded59100-cfd6-11e9-936f-63fd427129b1.png)
+
+![Capture d’écran 2019-09-05 à 12 14 31](https://user-images.githubusercontent.com/54895357/64333480-e137eb00-cfd6-11e9-8860-048fa92f663c.png)  
+
+
 
 Le cadre est modifiable avec l’outil texte. 
 Changez vos paramètres selon votre design et outil. 
@@ -113,8 +131,16 @@ Changez vos paramètres selon votre design et outil.
 
 #### 12. Générer le code
 « Extensions → Programmation de commande numérique → Chemin vers G-code... »
+
+![Capture d’écran 2019-09-05 à 12 14 36](https://user-images.githubusercontent.com/54895357/64333487-e39a4500-cfd6-11e9-9d66-c1cbf7bc2dd4.png)
+  
+
 Renommer fichier + Indiquez l’emplacement du code
 Remplacer par .ngc (pour que la machine du lac puisse lire le code)
 
+  ![Capture d’écran 2019-09-05 à 12 14 44](https://user-images.githubusercontent.com/54895357/64333488-e5640880-cfd6-11e9-8125-a5aaa94a5fea.png)
+
 #### SUR LA MACHINE : 
+
+
 
