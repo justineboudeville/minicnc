@@ -53,7 +53,7 @@ Ici la surface du carré de lino est de 75 x 75 mm + Vérifier l’échelle (not
 
 
 #### 4. Vérifier que les  objets soient en chemin, objet vectoriel. « Chemin → Objet en chemin ».
-![Capture d’écran 2019-09-05 à 11 54 41](https://user-images.githubusercontent.com/54895357/64331934-f8290e00-cfd3-11e9-9987-384dbc2b44af.png)
+![Capture d’écran 2019-09-05 à 11 54 41](https://user-images.githubusercontent.com/54895357/64331934-f8290e00-cfd3-11e9-9987-384dbc2b44af.png)  
 Combiner les chemins (Ctrl+K) si votre design en comporte plusieurs.
 
 #### 6. Mettre l’illustration en effet miroir (uniquement pour l’usage de tampon).
@@ -98,6 +98,3 @@ Renommer fichier + Indiquez l’emplacement du code
 Remplacer par .ngc (pour que la machine du lac puisse lire le code)
 
 #### SUR LA MACHINE : 
-
-
-![github](https://www.weblife.fr/wp-content/uploads/2019/01/github-logo-640x320.png)
