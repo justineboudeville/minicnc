@@ -13,6 +13,9 @@
 ![Capture d’écran 2019-09-05 à 11 52 21](https://user-images.githubusercontent.com/54895357/64331800-c0ba6180-cfd3-11e9-9b52-30a5128ebc4c.png)
 
 
+### PREMIER TEST NUMERIQUE (avec application encre argenté) :
+![IMG_20190904_141643](https://user-images.githubusercontent.com/54895357/64332190-666dd080-cfd4-11e9-9578-620307a98cad.jpg)
+
 ### INTRODUCTION : 
 « La machine outil à commande numérique » CNC ou « computer numerical control » en anglais est une machine-outil dotée d'une commande numérique assurée par un ordinateur. La fonction d’usinage est déterminée par un programme, qui commande les déplacements des outils sur la masse à usiner. Il définit l’axe de rotation de la fraise en fraisage, et l’axe de rotation de la pièce en tournage. La machine, une fraiseuse à trois ou cinq axes, est entièrement automatisée et contrôlée par ordinateur.
 
@@ -31,13 +34,6 @@ Communiquer par le biais d’un langage graphique à travers le monde.
 - Extension g-code
 - Extension EggBot
 - CNC
-
-#### Premier test manuel (sans recours à la CNC):
-![test_manuel](https://00e9e64bacfbcbaf37b68069ff8d1c9af2ce3e8acfb757ba01-apidata.googleusercontent.com/download/storage/v1/b/tuto_minicnc/o/Capture%20d%E2%80%99e%CC%81cran%202019-09-04%20a%CC%80%2016.17.23.png?qk=AD5uMEtJD8UQu0eMgrqaT130LpndE5WITo6m0F962yc0dF-TYAgFh0-CxhfJ5tb9fspqUmQlzaQrd4SxgDM6v807X3knL9Tsn2e4UKGGHEaY9VyPs51tYJpoyWb4RAnjyRQgFk7Fd1eAVu1J2PYxDxKgbS7PZt6bSbzAXDDQleuRKO4PcejQj5_9PtpWgErU758Ba1uPT0_KgyUTg4_e8t65Pi5u-u7uLOhBnr4YUaxtygtbDCp3yY-VK9ZwYPbhKo4etnw-eizuqisZLFglObVFKwbv6g9LqEo8y__YUfQqFoRdqkBG2Hd39s_q50ONQiXLiBC7CWtZpF2fa9CEet49F6WHldM0CD0zRLLzL4wsoBwTDmvrV_4kyMwIhhSElsyFNjrAJ_EsRUiMs4HV_xzOtICnwHerc4HczB1Qbryw-ugPjNbJhIERrXI1s0vju2BONCBB9gaqSZLkynnGiS3sIcB0-FM4oXKwntVA90hKwxPxk_vE3elq2npZDJIKSMOHU8Kn3YmTQ1Y4L9iMxwCGBAR6sJ5l6DrOpfygcPtFUkr8-kTAUb347wds5-I4O6JjFqLj89RO__5oO80yz3q_pMUNMT6OUwHp4__4a1cpbW81805SP_0o8kRJY8d2fvPiijZUy2ACcZOUrGOA6CLxF3zQSdDk3jRkDAsXY_CgHC8JUPUA9NANh2_fD1TYVdKIrd8J3NISfBCjNvFTwmKxPyJntqrLTMMX5vK7rfqGlUu-0N7_ec1YpSDQy0ndRM0sSEOS-9GCafewUjaR6kM44rauCQP98R56osTMdMlxHixLe2x___FCZhA_CeJlJ41QVJBbhPj3le-FZswvY-H0nVqKV1Pb4mTf0SrgNJ5AG4a65o2JTKg)
-
-#### Résultat final, avec application d'encre argenté (avec recours de la CNC) :
-![final](https://00e9e64bac4dbf50ca2d9cf8c5da070eef1997640d4cb79cbc-apidata.googleusercontent.com/download/storage/v1/b/tuto_minicnc/o/IMG_20190904_141643.jpg?qk=AD5uMEt9WPYfx3_ZCpeqYBt1HguK_29Q-vIId6Hq5B4QHu97S3-36YK4NUAVz953AvH2REI-b8qKPqdMquJilwhGs3Fj-3AXYk98QiSRXfU28HdLhGUc_vcn9J9ivaiwl1ITQ5K34eomWwbcbQYWOA5-I8zR33SJ3DLc9eldbMTuc75T7bp_5STAmptZ7XuLoYOV3gMF9n88LVfaDATL_VfzYeJzreAEFCrEcm7zwudKuonREfRWVJi7kJt49ViEhxf4fWRQ8TWPkipeSNP04bACZxUQv6dbX86NWJENlz9-zvktjwHwkyyRtdxP2LQD6yrjyfZ7VuatGtjUbWfk5cLJ2E0IDdh8O_U6aJUgZvg3Rh75jV_lgCfVyUmGxpwcBlZENQRm9R2Yp0LGjOK4LpHLOiIZ4c03azGu85NO__mqMEoqoG1-1BVhTSD_IIyc2_DSQTuaw51FUj9W_uQ7oKpIB5ufTTmtThGOzUbdqcnWeWuRWeIdQ_RjKTddHOEjM2h-UcLnsBnTyV01XckoMxgtYwnJtThkg-hmLV1DLSE0nmHvKITNiQXlyuxECHhULWU2fpYoBz0ZrKegp1tu1scj_JTp8Sl6zZmR9aD9gVZldgYeKC-yYDevYW7ldpK8MllktOvpArvVp83pRouiix4nXvV3IyW4dYs2Q0RkOhQRIpt7Oewii4na0K6Ix2YKHe6ceXYy_cLumNPGWkgGfondSFXfQrK4jSsXPIlA1TWxsBj4Q-x7LS-YsQALgzNPPgY9lTyo-_8iwW33BD0Ez3U_Ywk5um6gFtWqF61P248ZISlAsgGF5ds)
-
 
 _Un autre tutoriel qui m'a bien aidé!_
 [tutoriel, gcode](http://wiki.funlab.fr/index.php/Gcode_avec_Inkscape)
