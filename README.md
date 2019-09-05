@@ -63,15 +63,16 @@ Ajuster les contours de votre dessin, par rapport au rayon de l'outil. Ici 1 mm,
 _Pour une mèche en V, c'est un peu plus casse-tête! Cette dernière me sert ici, pour nettoyer ma forme, que j'utilise en dernier. Voir plus bas l'explication_
 
 #### 8. Extension EggBot
-Télécharger l'extension ⬇️
-[extension eggbot](https://console.cloud.google.com/storage/browser/tuto_minicnc/EggBot_extensions_v281/)
-Ici, nous allons nous servir de la focntion Hatchfill.  
-![Capture d’écran 2019-09-05 à 12 01 39](https://user-images.githubusercontent.com/54895357/64332527-0592c800-cfd5-11e9-9cfa-27dab2ae4a92.png)  
-Cocher la case "Connect nearby ends?" 
+Télécharger l'extension ⬇️  
+[extension eggbot](https://console.cloud.google.com/storage/browser/tuto_minicnc/EggBot_extensions_v281/)  
+Ici, nous allons nous servir de la focntion Hatchfill.   
+![Capture d’écran 2019-09-05 à 12 01 39](https://user-images.githubusercontent.com/54895357/64332527-0592c800-cfd5-11e9-9cfa-27dab2ae4a92.png)   
+Cocher la case "Connect nearby ends?"  
 Cela vas générer un chemin avec des noeuds, ce qui permettra de gagner du temps. La fraiseuse vas faire qu'un seul tracé. 
 ![Capture d’écran 2019-09-05 à 12 01 44](https://user-images.githubusercontent.com/54895357/64332529-062b5e80-cfd5-11e9-906e-cd5da7f72d65.png)
 
-Résultat : 
+Résultat :   
+
 ![Capture d’écran 2019-09-05 à 12 01 49](https://user-images.githubusercontent.com/54895357/64332528-0592c800-cfd5-11e9-9c5f-730e9038b4e2.png)
 
 
