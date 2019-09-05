@@ -143,7 +143,7 @@ Remplacer par .ngc (pour que la machine du lac puisse lire le code)
 #### SUR LA MACHINE : 
 
 
-
+![Capture d’écran 2019-09-05 à 12 19 39](https://user-images.githubusercontent.com/54895357/64334016-011bde80-cfd8-11e9-812a-b3a9d51460b9.png)  
 
 - Placer le matériel sur lequel vous allez travailler (Ici cadre de bois pour maintenir le lino)
 - Allumer l’ordinateur
@@ -151,6 +151,26 @@ Remplacer par .ngc (pour que la machine du lac puisse lire le code)
 - Ouvrir Launch my-minicnc sur le bureau
 - Déplacer votre G-code dans le fichier minicnc
 - L’ouvrir 
+
+![IMG_20190904_134942](https://user-images.githubusercontent.com/54895357/64334043-0da03700-cfd8-11e9-8441-171dd8212591.jpg)
+
+![IMG_20190904_134955](https://user-images.githubusercontent.com/54895357/64334052-1264eb00-cfd8-11e9-8b6f-91fb08db486e.jpg)
+
+Faire les mise au point de X, Y et Z, en utilisant Shift + Home pour définir un point d’origine.
+  
+![IMG_20190904_135149](https://user-images.githubusercontent.com/54895357/64334055-155fdb80-cfd8-11e9-9218-2d9394597cf0.jpg)
+
+**Attention de bien régler le Z !!!**  
+
+
+![IMG_20190904_134640](https://user-images.githubusercontent.com/54895357/64334080-1f81da00-cfd8-11e9-941e-09886b76dd67.jpg)
+![Capture d’écran 2019-09-05 à 12 22 26](https://user-images.githubusercontent.com/54895357/64334092-227cca80-cfd8-11e9-8e8b-a1488c518ccc.png)
+
+
+Si tout est ok, tu peux alors lancer le code (F2)
+  
+![IMG_20190904_135010](https://user-images.githubusercontent.com/54895357/64334112-2c063280-cfd8-11e9-932b-095a8a3c00ed.jpg)
+
 
 
 
