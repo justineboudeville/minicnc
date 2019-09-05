@@ -62,14 +62,21 @@ Combiner les chemins (Ctrl+K) si votre design en comporte plusieurs.
 Ajuster les contours de votre dessin, par rapport au rayon de l'outil. Ici 1 mm, pour venir enlever la matière avec une mèche universelle. Je mets donc le contour de ma forme à 1 mm.  
 _Pour une mèche en V, c'est un peu plus casse-tête! Cette dernière me sert ici, pour nettoyer ma forme, que j'utilise en dernier. Voir plus bas l'explication_
 
-#### 8. Extension EggBot
+#### 8. Extension EggBot  
+
+
 Télécharger l'extension ⬇️  
-[EggBot_extensions_v281.zip](https://github.com/justineboudeville/minicnc/files/3578694/EggBot_extensions_v281.zip)  
+[EggBot_extensions_v281.zip](https://github.com/justineboudeville/minicnc/files/3578694/EggBot_extensions_v281.zip)   
+
 
 
 Ici, nous allons nous servir de la focntion Hatchfill.   
 ![Capture d’écran 2019-09-05 à 12 01 39](https://user-images.githubusercontent.com/54895357/64332527-0592c800-cfd5-11e9-9cfa-27dab2ae4a92.png)   
+
+
 Cocher la case "Connect nearby ends?"  
+
+
 Cela vas générer un chemin avec des noeuds, ce qui permettra de gagner du temps. La fraiseuse vas faire qu'un seul tracé. 
 ![Capture d’écran 2019-09-05 à 12 01 44](https://user-images.githubusercontent.com/54895357/64332529-062b5e80-cfd5-11e9-906e-cd5da7f72d65.png)
 
