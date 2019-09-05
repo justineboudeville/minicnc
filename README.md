@@ -60,7 +60,8 @@ Combiner les chemins (Ctrl+K) si votre design en comporte plusieurs.
 #### 7. Le rayon de l"outil.
 
 Ajuster les contours de votre dessin, par rapport au rayon de l'outil. Ici 1 mm, pour venir enlever la matière avec une mèche universelle. Je mets donc le contour de ma forme à 1 mm.  
-_Pour une mèche en V, c'est un peu plus casse-tête! Cette dernière me sert ici, pour nettoyer ma forme, que j'utilise en dernier. Voir plus bas l'explication_
+_Pour une mèche en V, c'est un peu plus casse-tête! Cette dernière me sert ici, pour nettoyer ma forme, que j'utilise en dernier._
+Jettes un coup d'oeil ici si tu ne sais pas calculer le rayon de ta mèche en v : [issue_mèche](https://github.com/justineboudeville/minicnc/issues/2)
 
 #### 8. Extension EggBot  
 
