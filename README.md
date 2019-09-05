@@ -59,7 +59,7 @@ Combiner les chemins (Ctrl+K) si votre design en comporte plusieurs.
 #### 6. Mettre l’illustration en effet miroir (uniquement pour l’usage de tampon).
 #### 7. Le rayon de l"outil.
 
-Ajuster les contours de votre dessin, par rapport au rayon de l'outil. Ici 1 mm, pour venir enlever la matière avec une mèche universelle. Je mets donc le contour de ma forme à 1 mm.
+Ajuster les contours de votre dessin, par rapport au rayon de l'outil. Ici 1 mm, pour venir enlever la matière avec une mèche universelle. Je mets donc le contour de ma forme à 1 mm.  
 _Pour une mèche en V, c'est un peu plus casse-tête! Cette dernière me sert ici, pour nettoyer ma forme, que j'utilise en dernier. Voir plus bas l'explication_
 
 #### 8. Extension EggBot
