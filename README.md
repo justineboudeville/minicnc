@@ -86,8 +86,11 @@ Résultat :
 
 
 #### 9. Extension G-Code
-Les versions d'Inkscape 0.91 et ultérieures disposent nativement de cette extension, traduite en français par "programmation de commande numérique".
-Dans le cas contraire, voici le fichier ⬇️
+Les versions d'Inkscape 0.91 et ultérieures disposent nativement de cette extension, traduite en français par "programmation de commande numérique".  
+Dans le cas contraire, voici le fichier ⬇️  
+
+
+[gcodetools.tar.gz](https://github.com/justineboudeville/minicnc/files/3578703/gcodetools.tar.gz)
 
 #### 10. Les points d’orientations
 Sous Inkscape, sans sélectionner votre dessin, lancer « Extensions → Programmation de commande numérique → Points d’orientation... ». Il s’agit de choisir les origines pour gérer les déplacements de l’outil selon le tracé de votre dessin.
