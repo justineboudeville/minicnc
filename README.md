@@ -65,9 +65,15 @@ _Pour une mèche en V, c'est un peu plus casse-tête! Cette dernière me sert ic
 #### 8. Extension EggBot
 Télécharger l'extension ⬇️
 [extension eggbot](https://console.cloud.google.com/storage/browser/tuto_minicnc/EggBot_extensions_v281/)
-Ici, nous allons nous servir de la focntion Hatchfill.
+Ici, nous allons nous servir de la focntion Hatchfill.  
+![Capture d’écran 2019-09-05 à 12 01 39](https://user-images.githubusercontent.com/54895357/64332527-0592c800-cfd5-11e9-9cfa-27dab2ae4a92.png)  
 Cocher la case "Connect nearby ends?" 
 Cela vas générer un chemin avec des noeuds, ce qui permettra de gagner du temps. La fraiseuse vas faire qu'un seul tracé. 
+![Capture d’écran 2019-09-05 à 12 01 44](https://user-images.githubusercontent.com/54895357/64332529-062b5e80-cfd5-11e9-906e-cd5da7f72d65.png)
+
+Résultat : 
+![Capture d’écran 2019-09-05 à 12 01 49](https://user-images.githubusercontent.com/54895357/64332528-0592c800-cfd5-11e9-9c5f-730e9038b4e2.png)
+
 
 #### 9. Extension G-Code
 Les versions d'Inkscape 0.91 et ultérieures disposent nativement de cette extension, traduite en français par "programmation de commande numérique".
@@ -98,3 +104,4 @@ Renommer fichier + Indiquez l’emplacement du code
 Remplacer par .ngc (pour que la machine du lac puisse lire le code)
 
 #### SUR LA MACHINE : 
+
