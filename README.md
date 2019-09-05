@@ -144,3 +144,14 @@ Remplacer par .ngc (pour que la machine du lac puisse lire le code)
 
 
 
+
+- Placer le matériel sur lequel vous allez travailler (Ici cadre de bois pour maintenir le lino)
+- Allumer l’ordinateur
+- Entrer le MDP
+- Ouvrir Launch my-minicnc sur le bureau
+- Déplacer votre G-code dans le fichier minicnc
+- L’ouvrir 
+
+
+
+
