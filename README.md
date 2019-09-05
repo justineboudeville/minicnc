@@ -98,4 +98,4 @@ Remplacer par .ngc (pour que la machine du lac puisse lire le code)
 #### SUR LA MACHINE : 
 
 
-![github](https://www.google.be/search?q=logo+github&tbm=isch&source=iu&ictx=1&fir=fLKD7QptF_vjyM%253A%252CH8p6HHzcTglWAM%252C_&vet=1&usg=AI4_-kSjTtLY2Ne5QMyQ8z-dSwiiqxxZsA&sa=X&ved=2ahUKEwiDz_zLoLnkAhXCblAKHRfHDQkQ9QEwAXoECAUQBg#imgrc=HfEo5tg71Cw4AM:&vet=1)
+![github](https://www.weblife.fr/wp-content/uploads/2019/01/github-logo-640x320.png)
