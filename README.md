@@ -64,7 +64,9 @@ _Pour une mèche en V, c'est un peu plus casse-tête! Cette dernière me sert ic
 
 #### 8. Extension EggBot
 Télécharger l'extension ⬇️  
-[extension eggbot](https://console.cloud.google.com/storage/browser/tuto_minicnc/EggBot_extensions_v281/)  
+[EggBot_extensions_v281.zip](https://github.com/justineboudeville/minicnc/files/3578694/EggBot_extensions_v281.zip)  
+
+
 Ici, nous allons nous servir de la focntion Hatchfill.   
 ![Capture d’écran 2019-09-05 à 12 01 39](https://user-images.githubusercontent.com/54895357/64332527-0592c800-cfd5-11e9-9cfa-27dab2ae4a92.png)   
 Cocher la case "Connect nearby ends?"  
