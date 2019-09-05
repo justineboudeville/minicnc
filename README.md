@@ -45,7 +45,7 @@ _Un autre tutoriel qui m'a bien aidé!_
 
 #### 2. S’assurer que la dimension du fichier est  ≤ sur la masse à usiner.
 
-￼￼![1](https://00e9e64bacc6a4b5cc9385ed8f47d8cca76d833345df1838ac-apidata.googleusercontent.com/download/storage/v1/b/tuto_minicnc/o/Capture%20d%E2%80%99e%CC%81cran%202019-09-04%20a%CC%80%2016.23.55.png?qk=AD5uMEsv-_7uV9YWZgjy3jULcGRyLlfdWVOTQBIu75Mzy4qHGz_jm97W0BgVMa6EI0MJt9mQV33M_ZZXpdawUGZ8Zylhscun4LZk1ivfP5HZ4aXnmE6p7QiLRjvlifVYSZ4T6-lH5ig4sHaqbKapCwUXEXeSJh5V_FGz0x3uDrPbqBsf_HqnouEvne_iYN1U26Td1pwGPm7oICCn_HGziyxsokvaeGRxPDcVhynpXWF3s71QJgd8JFEbOAYjSXL2NdGq25s0j6qEk-4fUfHsw_kt-TChuXl-IxBmmFhslFCuRvl1pikx6qznM6W6IY6uz28mSCMf9xLlc9EYOkVqVqO4n0fZrV2qDmUKvZ2ame_lbULZnqoTHAuPLHi2ChDhDn85XDdJ1gOxfxlZ-CODIO12Yih64ud3_tlP3TpLbe8ZMRCIdoMGC1HqA-lmdZGFc52VSW6GONJFExG30YrJ8rLJEHrcpwiW4ckLnjWjLAnPVBkBHljz5Pho5bGrJZWYUpuZIXRR86-n5NG63fmcKjvtsguy0g2Gmuw2wg7jpSa2ycPK58jMspmLk4_6DeOfWj37QjM0vymM5jPJbVsBsM12Fc7tM24oGmJlKtOm0dJkMQaw38IwkLGTI7UR4XljvWM3BWod-mgbYtVFJ27lhdGnmrlKai_qAVOcqYTK77pdm0zDmK4Lb1sWNXOIQQKFQlywfOKuG4qdHo7aMZcZq8-SNIQklmfAeuHsRVP-kFmGB445C4TgT89FWhgq1Ae6CCwsiwuwl2ZQbG6TDJ3LJl55T9ARUE0ei93qwKNbcme7dbPCWaJ3ef5HzUoPNIZbzV3FIv4sWxDau-zecBmbFb8RYkOAveMo3Fkb81-_N4_JmBqLNUeJTa4)
+![Capture d’écran 2019-09-05 à 11 54 09](https://user-images.githubusercontent.com/54895357/64331894-e8a9c500-cfd3-11e9-8a42-43f1d33fc81b.png)
 
 Ici la surface du carré de lino est de 75 x 75 mm + Vérifier l’échelle (notamment quand on importe un fichier SVG dans Inkscape)
 
@@ -53,7 +53,7 @@ Ici la surface du carré de lino est de 75 x 75 mm + Vérifier l’échelle (not
 
 
 #### 4. Vérifier que les  objets soient en chemin, objet vectoriel. « Chemin → Objet en chemin ».
-![2](https://00e9e64bacb88532ad392442f8b8b692b501d7001aa4085f05-apidata.googleusercontent.com/download/storage/v1/b/tuto_minicnc/o/Capture%20d%E2%80%99e%CC%81cran%202019-09-04%20a%CC%80%2016.26.14.png?qk=AD5uMEsFZoTqHkUcbwwlLFfEOiTjiFtzg7o1hGMMFni3MNil69VWqBDBr2JsXmK4cJheqgHzyBfKyBew5zXuG6K4eQnLWLM2SKgMArZ2kXwUyIgzXlRLJIIebmmVWEMEbKOHlQSJ6w0qfwpGBnYXx0lo8c-OmfQI_mHsSyHcjyAxkSy4C7ZwchHZ6tfva-_2Hjr6WS12RHd98-x3rTXSgE8OyiVCjbqePBE7iDuf0IPWqhNNNsRGa9xd9Z1qFj2GgyA4_OKzKsSfyhWoedYIQLZ4HeyI70olKfYscSFd_O93W8ONJHDaAR9Rp4vEtX5PORk7zX_MCsJIuWKFGwWsBmBEVkdpG9_MsTE52yVn5gT9eAQ5gKRe4qCLMk7ne0MXh9I8YmFQrMPWCqxciNgCiWqBSMm5CGuDaIvgFAEzQMhv0OGu0AvyxSSEux-BYtugdP2Mk-tlQleb5iOF2fyex7-_rdrqrzbPlN-fvzr6Jlxkz--ncMgiNJh-0tKt0327aPZA_3vvmIaHCSP5QJVWBuDRTQfsZteH_rGuiJqO6NzEjqXIIRSYO_PNU0GkIur60cvdtaWpBU4DKCMSE4AKXXQ6jgK8GWrkuqmOLKA7N46Hu-SXf7g8YvinSrV7h160iIyL67suMkrVSMAshMY-EHwE-VpGJKQKhVCXF-qGwixJQpXn_xCYv2NY_xvQ5GJFMUYZI1Fc7eqEIthO3tLKaeimWWdpBxG9qZIYN5n7tTCW_6FcbADUUqRCFcB2r0Mqg9kFrCuHfmmSYi257fTWjNlvfYTdxucNrDBbudkjkiMvKcboF3lQCQSOk-WYvPhGJm4zejoqJKok3gEj2E_DGy4goS15nVVfY5EnMSDSLgu5wcR4ATbg8u0) 
+![Capture d’écran 2019-09-05 à 11 54 41](https://user-images.githubusercontent.com/54895357/64331934-f8290e00-cfd3-11e9-9987-384dbc2b44af.png)
 Combiner les chemins (Ctrl+K) si votre design en comporte plusieurs.
 
 #### 6. Mettre l’illustration en effet miroir (uniquement pour l’usage de tampon).
